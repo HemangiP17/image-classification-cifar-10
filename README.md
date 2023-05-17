@@ -14,7 +14,7 @@ You can install these dependencies using pip:
 
 <pre>
 <div class="p-4 overflow-y-auto"><code class="!whitespace-pre hljs">pip install numpy matplotlib keras
-</code></div></div></pre>
+</code></div></pre>
 
 ## Dataset
 The CIFAR-10 dataset is automatically downloaded using the cifar10 module from Keras. It is split into training and testing sets, consisting of 50,000 and 10,000 images, respectively. Additionally, a validation set is created by further splitting the training set.
